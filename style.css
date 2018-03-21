@@ -1,0 +1,20 @@
+
+h1 {
+	font-family: Raleway;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: white;
+}
+
+h3 {
+	color: blue;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+}
